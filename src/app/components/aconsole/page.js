@@ -92,7 +92,7 @@ export default function Aconsle() {
           className="btn btn-primary my-3"
           onClick={() => setShowPolarChartModal(true)}
         >
-          View In Polar Area Chart
+         View In Pie Chart
         </button>
 
         {/* Button to trigger Bar Chart modal */}
